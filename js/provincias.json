@@ -1,0 +1,416 @@
+
+{
+  "total": 52,
+  "comunidades": [
+    {
+      "nombre_formal": "Andalucía",
+      "nombre": "Andalucía",
+      "capital": "Sevilla",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Andalusia_%28simple%29.svg/1200px-Flag_of_Andalusia_%28simple%29.svg.png",
+      "provincias": [
+        {
+          "nombre": "Almería",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bandera_de_Almer%C3%ADa.svg/1200px-Bandera_de_Almer%C3%ADa.svg.png",
+          "capital": "Almería"
+        },
+        {
+          "nombre": "Granada",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bandera_de_Granada2.svg",
+          "capital": "Granada"
+        },
+        {
+          "nombre": "Sevilla",
+          "bandera": "https://lh3.googleusercontent.com/proxy/v8ZeHS64EKPBy4NDtcRu91JhWdeqeuMzkUTGvtZ5KJ3WEJPZHjl5ul0VRCC80c34GbvNZNL_YM3uU-mOBVFW1oCQmpyKgh9_Kz5w-1yp_uNb5lX-xtTa8OOaaCsvcSzu75HWXj68_ZeWGPeSzNkBUpPSG8AuqdQykXDl",
+          "capital": "Sevilla"
+        },
+        {
+          "nombre": "Huelva",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bandera_de_la_Provincia_De_Huelva.svg/1200px-Bandera_de_la_Provincia_De_Huelva.svg.png",
+          "capital": "Huelva"
+        },
+        {
+          "nombre": "Cádiz",
+          "bandera": "https://banderasdelmundo.org/wp-content/uploads/2019/06/Bandera-de-la-provincia-de-C%C3%A1diz.jpg",
+          "capital": "Cádiz"
+        },
+        {
+          "nombre": "Córdoba",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bandera_de_la_Provincia_de_C%C3%B3rdoba%2C_Espa%C3%B1a.png",
+          "capital": "Córdoba"
+        },
+        {
+          "nombre": "Jaén",
+          "bandera": "https://autonomico.elconfidencialdigital.com/asset/zoomcrop%252C1366%252C800%252Ccenter%252Ccenter//media/elconfidencialautonomico/images/2014/05/31/ECDIMA20140531_0010_1.jpg",
+          "capital": "Jaén"
+        },
+        {
+          "nombre": "Málaga",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bandera_Provincia_de_M%C3%A1laga.jpg",
+          "capital": "Málaga"
+        }
+      ]
+    },
+    {
+      "nombre_formal": "Cataluña",
+      "nombre": "Cataluña",
+      "capital": "Barcelona",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/1200px-Flag_of_Catalonia.svg.png",
+      "provincias": [
+        {
+          "nombre": "Girona",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bandera_de_la_provincia_de_Gerona.png",
+          "capital": "Girona"
+        },
+        {
+          "nombre": "Lleida",
+          "bandera": "https://comprar-banderas.com/wp-content/uploads/2017/01/bandera-de-la-provincia-de-lerida.png",
+          "capital": "Lleida"
+        },
+        {
+          "nombre": "Barcelona",
+          "bandera": "https://i.pinimg.com/originals/90/3a/c9/903ac9231d7f05b35fd449075e2f15af.png",
+          "capital": "Barcelona"
+        },
+        {
+          "nombre": "Tarragona",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bandera_actual_de_la_provincia_de_Tarragona.svg",
+          "capital": "Tarragona"
+        }
+      ]
+    },
+    {
+      "nombre_formal": "Comunidad de Madrid",
+      "nombre": "Madrid",
+      "capital": "Madrid",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_the_Community_of_Madrid.svg/1200px-Flag_of_the_Community_of_Madrid.svg.png",
+      "provincias": [
+        {
+          "nombre": "Madrid",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_the_Community_of_Madrid.svg/1200px-Flag_of_the_Community_of_Madrid.svg.png",
+          "capital": "Madrid"
+        }
+      ]
+    },
+    {
+      "nombre_formal": "Comunidad Valenciana",
+      "nombre": "Comunidad Valenciana",
+      "capital": "Valencia",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_the_Valencian_Community_%282x3%29.svg/1200px-Flag_of_the_Valencian_Community_%282x3%29.svg.png",
+      "provincias": [
+        {
+          "nombre": "Castellón",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bandera_de_Castell%C3%B3_de_la_Plana.png",
+          "capital": "Castellón"
+        },
+        {
+          "nombre": "Valencia",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_the_Valencian_Community_%282x3%29.svg/1200px-Flag_of_the_Valencian_Community_%282x3%29.svg.png",
+          "capital": "Valencia"
+        },
+        {
+          "nombre": "Alicante",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bandera_d%27Alacant.svg/1200px-Bandera_d%27Alacant.svg.png",
+          "capital": "Alicante"
+        }
+      ]
+    },
+    {
+      "nombre_formal": "Galicia",
+      "nombre": "Galicia",
+      "capital": "Santiago de Compostela",
+      "bandera": "https://www.imazu.es/wp-content/uploads/2018/07/bandera-galicia-1080x675.jpg",
+      "provincias": [
+        {
+          "nombre": "Orense",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Provincia_de_Ourense_-_Bandera.svg/1200px-Provincia_de_Ourense_-_Bandera.svg.png",
+          "capital": "Orense"
+        },
+        {
+          "nombre": "Pontevedra",
+          "bandera": "https://www.comprarbanderas.es/images/banderas/400/16644-provincia-de-pontevedra-oficial_400px.jpg",
+          "capital": "Pontevedra"
+        },
+        {
+          "nombre": "La Coruña",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bandera_de_la_ciudad_de_La_Coru%C3%B1a.svg/1200px-Bandera_de_la_ciudad_de_La_Coru%C3%B1a.svg.png",
+          "capital": "La Coruña"
+        },
+        {
+          "nombre": "Lugo",
+          "bandera": "https://es.historia.com/wp-content/uploads/2017/08/bandera-de-la-provincia-de-lugo.jpg",
+          "capital": "Lugo"
+        }
+      ]
+    },
+    {
+      "nombre_formal": "Castilla y León",
+      "nombre": "Castilla y León",
+      "capital": "León",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_Castile_and_Le%C3%B3n.svg/1200px-Flag_of_Castile_and_Le%C3%B3n.svg.png",
+      "provincias": [
+        {
+          "nombre": "León",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bandera_de_Le%C3%B3n.svg/1280px-Bandera_de_Le%C3%B3n.svg.png",
+          "capital": "León"
+        },
+        {
+          "nombre": "Valladolid",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bandera_de_la_provincia_de_Valladolid.svg/1200px-Bandera_de_la_provincia_de_Valladolid.svg.png",
+          "capital": "Valladolid"
+        },
+        {
+          "nombre": "Salamanca",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bandera_de_la_provincia_de_Salamanca.svg",
+          "capital": "Salamanca"
+        },
+        {
+          "nombre": "Soria",
+          "bandera": "https://www.banderasvdk.com/fotos/banderas/200-bandera-provincia-de-soria.jpg",
+          "capital": "Soria"
+        },
+        {
+          "nombre": "Burgos",
+          "bandera": "https://www.agronewscastillayleon.com/sites/default/files/styles/node-detail/public/diputacion-provincial-bandera.jpg?itok=6MDEJaSW",
+          "capital": "Burgos"
+        },
+        {
+          "nombre": "Palencia",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bandera_de_la_provincia_de_Palencia.svg/1200px-Bandera_de_la_provincia_de_Palencia.svg.png",
+          "capital": "Palencia"
+        },
+        {
+          "nombre": "Segovia",
+          "bandera": "https://www.elindependiente.com/wp-content/uploads/2019/12/provincia_segovia_bandera.png",
+          "capital": "Segovia"
+        },
+        {
+          "nombre": "Ávila",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bandera_de_la_provincia_de_%C3%81vila.svg",
+          "capital": "Ávila"
+        },
+        {
+          "nombre": "Zamora",
+          "bandera": "https://comprarbanderas.online/wp-content/uploads/2016/04/zamora.png",
+          "capital": "Zamora"
+        }
+      ]
+    },
+    {
+      "nombre_formal": "País Vasco",
+      "nombre": "País Vasco",
+      "capital": "Bilbao",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_Basque_Country.svg/1200px-Flag_of_the_Basque_Country.svg.png",
+      "provincias": [
+        {
+          "nombre": "Bizkaia",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bandera_de_Vizcaya_2007.svg/1200px-Bandera_de_Vizcaya_2007.svg.png",
+          "capital": "Bilbao"
+        },
+        {
+          "nombre": "Álava",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/0/0d/%C3%81lava.svg",
+          "capital": "Vitoria"
+        },
+        {
+          "nombre": "Guipúzcoa",
+          "bandera": "https://1.bp.blogspot.com/-mmZBwno_x7Q/VyfVKXqV4aI/AAAAAAAAWkU/xnPP0xX1iPcokEbnyHjTTKOuj4ZCWZhAACLcB/s1600/b33b2ffd2f502dcfad63c6de843.jpg",
+          "capital": "San Sebastián"
+        }
+      ]
+    },
+    {
+      "nombre_formal": "Islas Canarias",
+      "nombre": "Canarias",
+      "capital": "Las Palmas",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_the_Canary_Islands_%28simple%29.svg/1200px-Flag_of_the_Canary_Islands_%28simple%29.svg.png",
+      "provincias": [
+        {
+          "nombre": "Las Palmas",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Provincia_de_Las_Palmas_-_Bandera.svg/750px-Provincia_de_Las_Palmas_-_Bandera.svg.png",
+          "capital": "Las Palmas de Gran Canaria"
+        },
+        {
+          "nombre": "Santa Cruz de Tenerife",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Tenerife.svg/1200px-Flag_of_Tenerife.svg.png",
+          "capital": "Santa Cruz de Tenerife"
+        }
+      ],
+      "islas": [
+        {
+          "nombre": "",
+          "capital": ""
+        }
+      ]
+    },
+    {
+      "nombre_formal": "Castilla-La Mancha",
+      "nombre": "Castilla-La Mancha",
+      "capital": "Toledo",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Castile-La_Mancha.svg/1200px-Flag_of_Castile-La_Mancha.svg.png",
+      "provincias": [
+        {
+          "nombre": "Ciudad Real",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bandera_Provincial_de_Ciudad_Real.png/1200px-Bandera_Provincial_de_Ciudad_Real.png",
+          "capital": "Ciudad Real"
+        },
+        {
+          "nombre": "Cuenca",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flag_of_Campos_del_Para%C3%ADso_Spain.svg/1200px-Flag_of_Campos_del_Para%C3%ADso_Spain.svg.png",
+          "capital": "Cuenca"
+        },
+        {
+          "nombre": "Albacete",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bandera_provincia_Albacete.svg/1200px-Bandera_provincia_Albacete.svg.png",
+          "capital": "Albacete"
+        },
+        {
+          "nombre": "Guadalajara",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bandera_ciudad_Guadalajara%2C_Guadalajara%2C_Castilla-La_Mancha%2C_Espa%C3%B1a_%28original%29.png",
+          "capital": "Guadalajara"
+        },
+        {
+          "nombre": "Toledo",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bandera_de_Toledo.svg/1200px-Bandera_de_Toledo.svg.png",
+          "capital": "Toledo"
+        }
+      ]
+    },
+    {
+      "nombre_formal": "Región de Murcia",
+      "nombre": "Murcia",
+      "capital": "Murcia",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_Region_of_Murcia.svg",
+      "provincias": [
+        {
+          "nombre": "Murcia",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Murcia.svg/1200px-Flag_of_Murcia.svg.png",
+          "capital": "Murcia"
+        }
+      ]
+    },
+    {
+      "nombre_formal": "Aragón",
+      "nombre": "Aragón",
+      "capital": "Zaragoza",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/1/18/Flag_of_Aragon.svg",
+      "provincias": [
+        {
+          "nombre": "Huesca",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bandera_de_la_provincia_de_Huesca.svg/1200px-Bandera_de_la_provincia_de_Huesca.svg.png",
+          "capital": "Huesca"
+        },
+        {
+          "nombre": "Zaragoza",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bandera_de_la_provincia_de_Zaragoza.svg/1200px-Bandera_de_la_provincia_de_Zaragoza.svg.png",
+          "capital": "Zaragoza"
+        },
+        {
+          "nombre": "Teruel",
+          "bandera": "https://www.comprarbanderas.es/images/banderas/400/292-provincia-de-teruel_400px.jpg",
+          "capital": "Teruel"
+        }
+      ]
+    },
+    {
+      "nombre_formal": "Islas Baleares",
+      "nombre": "Baleares",
+      "capital": "Palma",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Flag_of_the_Balearic_Islands.svg",
+      "provincias": [
+        {
+          "nombre": "Baleares",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Flag_of_the_Balearic_Islands.svg",
+          "capital": ""
+        }
+      ],
+      "islas": [
+        {
+          "nombre": "",
+          "capital": ""
+        }
+      ]
+    },
+    {
+      "nombre_formal": "Extremadura",
+      "nombre": "Extremadura",
+      "capital": "Mérida",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Extremadura_%28with_coat_of_arms%29.svg/1200px-Flag_of_Extremadura_%28with_coat_of_arms%29.svg.png",
+      "provincias": [
+        {
+          "nombre": "Cáceres",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bandera_de_C%C3%A1ceres.svg/1200px-Bandera_de_C%C3%A1ceres.svg.png",
+          "capital": "Cáceres"
+        },
+        {
+          "nombre": "Badajoz",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bandera_o_Pend%C3%B3n_Municipal_de_Badajoz%2C_presentando_Escudo_Her%C3%A1ldico_con_las_Armas_de_Badajoz.jpg/295px-Bandera_o_Pend%C3%B3n_Municipal_de_Badajoz%2C_presentando_Escudo_Her%C3%A1ldico_con_las_Armas_de_Badajoz.jpg",
+          "capital": "Badajoz"
+        }
+      ]
+    },
+    {
+      "nombre_formal": "Principado de Asturias",
+      "nombre": "Asturias",
+      "capital": "Oviedo",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Asturias.svg/1200px-Flag_of_Asturias.svg.png",
+      "provincias": [
+        {
+          "nombre": "Asturias",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Asturias.svg/1200px-Flag_of_Asturias.svg.png",
+          "capital": "Asturias"
+        }
+      ]
+    },
+    {
+      "nombre_formal": "Navarra",
+      "nombre": "Navarra",
+      "capital": "Pamplona",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bandera_de_Navarra.svg",
+      "provincias": [
+        {
+          "nombre": "Navarra",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bandera_de_Navarra.svg",
+          "capital": "Pamplona"
+        }
+      ]
+    },
+    {
+      "nombre_formal": "Cantabria",
+      "nombre": "Cantabria",
+      "capital": "Santander",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Cantabria_%28Official%29.svg",
+      "provincias": [
+        {
+          "nombre": "Cantabria",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Cantabria_%28Official%29.svg",
+          "capital": "Cantabria"
+        }
+      ]
+    },
+    {
+      "nombre_formal": "La Rioja",
+      "nombre": "La Rioja",
+      "capital": "Logroño",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_La_Rioja_%28with_coat_of_arms%29.svg/1200px-Flag_of_La_Rioja_%28with_coat_of_arms%29.svg.png",
+      "provincias": [
+        {
+          "nombre": "La rioja",
+          "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_La_Rioja_%28with_coat_of_arms%29.svg/1200px-Flag_of_La_Rioja_%28with_coat_of_arms%29.svg.png",
+          "capital": "Logroño"
+        }
+      ]
+    },
+    {
+      "nombre_formal": "Melilla",
+      "nombre": "Melilla",
+      "capital": "Melilla",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Melilla.svg/1200px-Flag_of_Melilla.svg.png"
+    },
+    {
+      "nombre_formal": "Ceuta",
+      "nombre": "Ceuta",
+      "capital": "Ceuta",
+      "bandera": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_Ceuta.svg"
+    }
+  ]
+}

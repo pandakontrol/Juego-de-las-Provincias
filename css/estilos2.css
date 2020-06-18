@@ -1,0 +1,193 @@
+.contenedor {
+    width:800px;
+    /* height:6700px; */
+    /* border:1px solid black; */
+    position:absolute;
+    left:calc(50% - 300px);
+}
+
+#contenedorPrincipal {
+    width:600px;
+    border:1px solid black;
+    position:absolute;
+    left:calc(50% - 300px);
+    padding:10px;
+}
+.bandera {
+    width:198px;
+    height:190px;
+    background-color:whitesmoke;
+    float:left;
+}
+.bandera select {
+    width:calc(100% - 10px);
+    padding:5px;
+    margin: 0 5px 0 5px;
+    border: 1px solid transparent;
+}
+.mal {
+    border:1px solid red !important;
+    background-color: #ffbcb3;
+}
+
+.bien {
+    border:1px solid blue !important;
+    background-color: #8db9ff;
+    font-weight: bold;
+    color: blue;
+}
+
+.bandera img {
+    width:calc(100% - 12px);
+    margin:5px;
+    height:130px;
+    border-radius:5px;
+    border:1px solid black;
+}
+#comprobar {
+    text-align: center;
+    padding:20px;
+    position:absolute;
+    top:630px;
+    width:100%;
+}
+#comprobar button {
+    padding:15px;
+    font-size:18px;
+    background-color: #8db9ff;
+    border: solid 1px blue;
+}
+
+h1 {
+    text-align: center;
+}
+
+#contenedorProvincias {
+    width:600px;
+    border:1px solid black;
+    position:absolute;
+    left:calc(50% - 300px);
+    padding:10px;
+}
+.cajaTexto {
+    width:100%;
+    padding:10px;
+    margin-top:10px;
+}
+.contenedorTexto {
+    width:calc(25% - 10px);
+    padding:5px;
+    float:left;
+}
+.contenedorSelect {
+    width:100%;
+}
+.contenedorSelect select {
+    width:100%;
+}
+#menu {
+    width:500px;
+    height:625px;
+    position:absolute;
+    left:calc(50% - 250px);
+    top:250px;
+    background-color: aquamarine;
+    border: 1px solid black;
+}
+
+#menu .opcion {
+    width:calc(100% - 2px);
+    height:73px;
+    text-align:center;
+    font-size:25px;
+    padding-top:50px;
+    border:1px solid black;
+}
+#menu .opcion:hover {
+    background-color: aqua;
+    cursor:pointer;
+}
+
+#menu .opcion a {
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+.titulo {
+}
+.negativo {
+    color:red;
+}
+
+.positivo {
+    color:blue;
+}
+table#puntuacion {
+    position:absolute;
+    top:850px;
+    width:200px;
+    background-color:silver;
+    left:calc(50% - 300px);
+    border: 1px solid black;
+}
+
+#contenedorPuntos {
+    width:100%;
+    height:100%;
+    background-color:black;
+    position:absolute;
+    left:0;
+    top:0;
+    opacity:.7;
+}
+#resultado {
+    position:absolute;
+    width:500px;
+    height:150px;
+    top: 30%;
+    left:calc(50% - 250px);
+    background-color: #8db9ff;
+    border:1px solid black;
+    box-shadow:1px 1px 15px black;
+    font-size:20px;
+    text-align:center;
+    padding:50px;
+    border-radius:5px;
+}
+#resultado button {
+    padding:10px;
+    background-color: #2b72ff;
+    color:white;
+    margin:10px;
+    border: 1px solid white;
+}
+.ocultar{
+    visibility: hidden;
+}
+.mostrar {
+    visibility: visible;
+}
+.texto {
+    font-size: 18px;
+    font-weight: bold;
+    background-color:whitesmoke;
+    padding:5px;
+    margin-top:5px;
+}
+
+.contenedor5 {
+    width:calc(25% - 10px);
+    padding:5px;
+    float:left;
+}
+
+.contenedor5 span {
+    width:100%;
+    height:10px;
+    padding:10px;
+    margin-top:15px;
+    margin-bottom:10px;
+    font-size: 12px;
+    font-weight: bold;
+    text-align:center;
+}
